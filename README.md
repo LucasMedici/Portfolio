@@ -18,4 +18,5 @@ Nesse projeto estamos desenvolvendo um sistema de gerenciamento de cobranças de
 
 ##
 <h2>Contato </h2>
+<h3>Email: lucasrpmedici@gmail.com</h3>
 
