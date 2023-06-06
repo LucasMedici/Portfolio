@@ -33,17 +33,23 @@ __•SoftSkills__: Desenvolvi minha habilidade de comunicação entre o grupo pa
 <h3>API 2-Semestre - DailyBot</h3>
 <h5>Parceiro Acadêmico: <a href="https://midall.com.br">MidAll Tecnologia</a></h5>
 <h5>Repositório: <a href="https://github.com/whatscodeg3/API-2DSM-DailyBot">DailyBot - 2022.2</a></h5>
-Desenvolver um Crawler que diariamente acesse o Diário Oficial Do Estado de São Paulo e faça uma varredura buscando menções a professores associados a um sindicato, caso a menção exista notificar o mesmo por e-email especificando a página em que ele foi citado e dando um breve resumo do assunto.<br> </>
+<h4>Problema Proposto:</h4>
+Um sindicado de professores deseja automatizar um processo de negócio para reduzir custos e melhorar a entrega de valor para seus associados. Atualmente 10 funcionários são encarregados de diariamente ler o Diário Oficial do Estado de São Paulo buscando notificações de processos trabalhistas sobre os professores do sindicato. Esse processo é lento, demanda muitos funcionários além de não ser nem um pouco garantido de que o professor realmente seja notificado.
+<br>
+<h4>Solução: </h4>
+Desenvolvemos um sistema com crawler que consiga buscar, ler o arquivo do Diário e identificar o conteúdo relacionado aos Professores Associados, realizando os cruzamentos necessários com as bases de dados de associados, gravando todos os processos publicados relacionados aos associados, e emitindo um relatório diário para que a equipe e realizando o disparo automático de e-mails para os professores citados no Diário Oficial.<br> </>
 <br>
 
 
 __•Tecnologias Utilizadas__: React, JavaScript, TypeScript e Python.
 
 <h3>Contribuições</h3>
+Nesse projeto também fiz parte do DevTeam, contribui com a equipe na parte do crawler, trabalhei diretamente no robo que fazia a leitura dos PDFs e buscava algo relacionado a um determinado professor, nessa parte utilizamos Python e a maior dificuldade que tivemos foi a falta de padrão nos PDFs do Diário, fazendo com que a procura fosse incerta em algumas situações. <br>
+<br>
 
-__•HardSkills__: Aprendi os principios do HTML com estilização CSS, além de entender a separação do frontend com o backend, a ligação entre eles, e no backend em python, entendi as diferenças entre as requisições.
+__•HardSkills__: Desenvolvi meu conhecimento em Python, e em algumas bibliotecas do mesmo, como o PyPDF, que fazia a leitura dos dados, ou o smtplib, módulo do Python que faz a automação de envios de email.
 
-__•SoftSkills__: Desenvolvi minha habilidade de comunicação entre o grupo para que todos saibam o andamento das partes do projeto, e a responsabilidade com as entregas para o andamento das Sprints.
+__•SoftSkills__: Evolui ainda mais na Comunicação com a equipe em geral, na Responsabilidade de entregas, e na Proatividade sempre buscando conhecimento para fazer minhas tasks e contribuir para outras tasks do grupo. Além disso na Solução de Problemas durante as Sprints, buscando sempre alternativas para problemas que não eram esperados no desenvolvimento.
 
 
 
