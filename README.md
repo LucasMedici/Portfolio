@@ -1,31 +1,25 @@
 # Portfólio - Lucas Medici 👋
 
 <h2>Sobre Mim ✏️</h2>
-Me chamo Lucas, tenho 19 anos e atualmente estou cursando o 3 Semestre de Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos. Tenho experiência em React, TypeScript, JavaScript, Python e Java e desejo continuar estudando para evoluir e aprender outras linguagens.
+Lucas, 19 anos, estudante matriculado no 3ºSemestre de Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos. Apaixonado por programação e com experiência em Python, React, JavaScript, TypeScript e Java. Sempre buscando evoluir, ancioso para enfrentar desafios profissionais e trabalhar em equipes contribuindo para o avanço tecnológico.
 
-##
 <h2>Projetos 📁</h2>
-<h3><a href="https://github.com/whatscodeg3/API-DSM-ServiceDesk">API 1-Semestre - ServiceDesk </a></h3>
-<img src="/imgs/1semestre_1.png" alt="Imagem Projeto 1.1" width="500"><br>
+<h3>API 1-Semestre - ServiceDesk</h3>
 <h5>Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net">FATEC São José dos Campos - Prof. Jessen Vidal</a></h5>
-<details>
-<summary><h4>Detalhes do Projeto</h4></summary>
-◉ Nesse projeto tinhamos o objetivo de fazer uma central de serviços que presta acessoria para solucionar problemas integrados no ambiente de tecnologia da informação e para gerir 
-o time utilizamos o SCRUM. <br>
-◉ Em geral o sistema esperava uma solicitação gerada por um usuário e as redirecionava de maneira cíclica entre os funcionários cadastrados no sistema, além disso, alguns funcionários tinham permissões para gerar relatórios detalhados sobre as solicitações resolvidas ou não resolvidas. <br>
-◉ As linguagens utilizadas no projeto foram HTML, CSS, JavaScript e Python com Flask, e para a maioria dos integrantes do grupo, esse foi o primeiro contato com essas linguagens. <br>  
-<img src="/imgs/1semestre_2.png" alt="Imagem Projeto 1.2" width="500">  
-</details>
-<details>
-<summary><h4>Contribuições Pessoais</h4></summary>  
-◉ Nesse caso, a minha função no time foi fazer parte do Dev Team, tive o meu primeiro contato com o SCRUM e com linguagens de programação, acredito que a maior lição aprendida nesse projeto foi a importância da comunicação entre o time como um todo, todos estávamos começando na programação e no inicio tivemos problemas para evoluir no código, porém com o passar das sprints o grupo chegou em um certo entrosamento, fazendo com que tudo fluísse bem melhor, e com isso conseguimos entregar um bom produto final.  
-  
-<h3>Hard Skills</h3>
-◉ Grande evolução em todas as linguagens utilizadas no projeto, principalmente HTML e Python. 
-<h3>Soft Skills</h3>  
-◉ Comunicação
-◉ Proatividade
-</details>  
+<h5>Repositório: <a href="https://github.com/whatscodeg3/API-DSM-ServiceDesk">ServiceDesk - 2022.1</a></h5>
+O sistema tem como objetivo dar assistência a problemas de TI, uma pessoa poderia criar um cadastro e registrar uma dúvida no sistema, um funcionário da empresa iria responder e assim o cliente que cadastrou a pergunta pode avaliar o atendimento recebido. Além disso o sistema possui Administradores que tem acesso a todas dúvidas respondidas ou não de um funcionário, o administrador também tem acesso a um relatório filtrado por data onde é exibido um percentual de solicitações atendidas, recusadas ou em aberto.<br> </>
+<br>
+
+
+__•Tecnologias Utilizadas__: HTML, CSS, JavaScript e Python com Flask.
+
+<h3>Contribuições</h3>
+
+__•HardSkills__: Aprendi os principios do HTML com estilização CSS, além de entender a separação do frontend com o backend, a ligação entre eles, e no backend em python, entendi as diferenças entre as requisições.
+
+__•SoftSkills__: Desenvolvi minha habilidade de comunicação entre o grupo para que todos saibam o andamento das partes do projeto, e a responsabilidade com as entregas para o andamento das Sprints.
+
+ 
 
 
 <hr>
