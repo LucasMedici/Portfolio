@@ -56,14 +56,14 @@ o time utilizamos o SCRUM. <br>
 <hr>
 <br>
 <h3><a href="https://github.com/whatscodeg3/API-3DSM">API 3-Semestre - Gerenciador de Cobrança</a></h3>
-<img src="/imgs/" alt="Imagem Projeto 3.1" width="500"><br>
+<img src="/imgs/3semestre_1.png" alt="Imagem Projeto 3.1" width="500"><br>
 <h5>Parceiro Acadêmico: <a href="https://www.pro4tech.com.br">Pro4Tech Transformação Digital</a></h5>
 <details>
 <summary><h4>Detalhes do Projeto</h4></summary>
 ◉ Nesse projeto fizemos um sistema de gerenciamento de cobranças de uma empresa, em que um funcionário cadastra vendas relacionadas a um cliente já cadastrado, assim tendo o controle de parcelas pagas ou não pagas, tornando um cliente adimplente ou inadimplente, também fazemos a geração de relatórios filtrados por data. <br>
 ◉ O grupo também foi gerido com o SCRUM. <br>  
 ◉ Utilizamos React, TypeScript, Java com Spring e o Docker. <br>  
-<img src="/imgs/" alt="Imagem Projeto 3.2" width="500">  
+<img src="/imgs/3semestre_2.PNG" alt="Imagem Projeto 3.2" width="500">  
 </details>
 <details>
 <summary><h4>Contribuições Pessoais</h4></summary>  
