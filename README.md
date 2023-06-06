@@ -30,8 +30,27 @@ o time utilizamos o SCRUM. <br>
 
 
 <br>
-<h3><a href="https://github.com/whatscodeg3/API-2DSM-DailyBot">API 2-Semestre</a></h3>
-Nesse projeto eu também fiz parte do Dev Team, tivemos que automatizar o processo de um sindicado de professores, fazendo uma busca automática no Diário, verificando se alguma coisa tem relação com algum professor cadastrado no sistema e o notificando se necessário. Fizemos um crawler que fazia a leitura dos PDFs do Diário automaticamente e fazia toda a verificação necessária, também utilizamos o SCRUM para gerir o grupo. As linguagens utilizadas foram HTML, CSS, JavaScript e Typescript com Node, também utilizamos o Python para algumas funcões.
+<h3><a href="https://github.com/whatscodeg3/API-2DSM-DailyBot">API 2-Semestre - DailyBot</a></h3>
+<img src="/imgs/" alt="Imagem Projeto 2.1" width="500"><br>
+<h5>Parceiro Acadêmico: <a href="https://midall.com.br">MidAll Tecnologia</a></h5>
+<details>
+<summary><h4>Detalhes do Projeto</h4></summary>
+◉ Nesse projeto tivemos que automatizar o processo de um sindicado de professores, fazendo uma busca automática no Diário, verificando se alguma coisa tem relação com algum professor cadastrado no sistema e o notificando se necessário. Fizemos um crawler que fazia a leitura dos PDFs do Diário automaticamente e fazia toda a verificação necessária, também utilizamos o SCRUM para gerir o grupo. <br>
+◉ As linguagens utilizadas foram HTML, CSS, JavaScript e Typescript com Node, também utilizamos o Python para algumas funcões. <br>  
+<img src="/imgs/" alt="Imagem Projeto 2.2" width="500">  
+</details>
+<details>
+<summary><h4>Contribuições Pessoais</h4></summary>  
+◉ Nesse projeto, a minha função no time também foi fazer parte do Dev Team, porém agora todos já tinhamos alguma experiência em algumas linguagens, desta vez trabalhamos com uma empresa real, fazendo com que o desafio fosse muito maior, pois tinhamos um cliente real para aprovar nossas entregas, nosso maior problema no projeto foi fazer a leitura de PDFs do Diário que não seguiam padrão nenhum, porém, com um bom planejamento e comunicação com cliente conseguimos entregar um bom produto final.  
+  
+<h3>Hard Skills</h3>
+◉ Evolução principalmente em JavaScript e TypeScript.
+<h3>Soft Skills</h3>  
+◉ Comunicação Assertiva
+◉ Organização e Planejamento
+◉ Proatividade
+</details>  
+
 
 <h3><a href="https://github.com/whatscodeg3/API-3DSM">API 3-Semestre</a></h3>
 Nesse projeto estamos desenvolvendo um sistema de gerenciamento de cobranças de uma empresa, em que um funcionário cadastra vendas relacionadas a um cliente já cadastrado, assim tendo o controle de parcelas pagas ou não pagas, tornando um cliente adimplente ou inadimplente, também fazemos a geração de relatórios filtrados por data. Nesse projeto estou sendo o P.O da equipe, tendo a função de ser o intermediário entre o cliente e o time de desenvolvimento garantindo a priorização correta dos requesitos fornecidos pelo cliente.
