@@ -58,32 +58,26 @@ __•SoftSkills__: Evolui ainda mais na Comunicação com a equipe em geral, na 
 
 <hr>
 <br>
-<h3><a href="https://github.com/whatscodeg3/API-3DSM">API 3-Semestre - Gerenciador de Cobrança</a></h3>
-<img src="/imgs/3semestre_1.png" alt="Imagem Projeto 3.1" width="500"><br>
-<h5>Parceiro Acadêmico: <a href="https://www.pro4tech.com.br">Pro4Tech Transformação Digital</a></h5>
-<details>
-<summary><h4>Detalhes do Projeto</h4></summary>
-◉ Nesse projeto fizemos um sistema de gerenciamento de cobranças de uma empresa, em que um funcionário cadastra vendas relacionadas a um cliente já cadastrado, assim tendo o controle de parcelas pagas ou não pagas, tornando um cliente adimplente ou inadimplente, também fazemos a geração de relatórios filtrados por data. <br>
-◉ O grupo também foi gerido com o SCRUM. <br>  
-◉ Utilizamos React, TypeScript, Java com Spring e o Docker. <br>  
-<img src="/imgs/3semestre_2.PNG" alt="Imagem Projeto 3.2" width="500">  
-</details>
-<details>
-<summary><h4>Contribuições Pessoais</h4></summary>  
-◉ Nesse projeto, desempenhei o papel de Product Owner, fazendo o levantamento de requesitos para a construção do backlog do produto. Também contribui com o time de desenvolvimento em algumas partes do projeto, principalmente no front-end. <br>
-◉ Para mim, nesse semestre, a maior dificuldade foi se acostumar a ter um novo papel no time, a comunicação com o cliente no inicio foi um problema, pois demorei para me acostumar a fazer as perguntas certas para assim conseguir as respostas desejadas, porém, finalizando o semestre acredito que o aprendizado tenha sido muito bom e evolui em diversos sentidos. <br>
-<h3>Hard Skills</h3>
-◉ Evolução em React, Java e na metodologia SCRUM.
-<h3>Soft Skills</h3>  
-◉ Proatividade
-◉ Visão de Negócio
-◉ Organização e Planejamento
-◉ Proatividade
-</details>  
+<h3>API 3-Semestre - Gestor de Cobranças</h3>
+<h5>Parceiro Acadêmico: <a href="https://www.pro4tech.com.br">Pro4Tech Transformador Digital</a></h5>
+<h5>Repositório: <a href="https://github.com/whatscodeg3/API-3DSM">Gestor de Cobranças - 2023.1</a></h5>
+<h4>Problema Proposto:</h4>
+Uma empresa tem problema na gestão de cobranças. Eles precisam de uma solução que permita o cadastro de clientes, registro de cobranças das parcelas a receber e dos pagamentos efetuados, além da geração de relatórios de cobrança com diferentes tipos de busca por data e situação das parcelas.
+<br>
+<h4>Solução: </h4>
+Desenvolvemos um sistema em microsserviços que permite o cadastro de clientes, o cadastro de venda diretamente ligado um cliente específico e a baixa de parcelas de uma venda, além disso, um funcionário do financeiro pode gerar um relatório entre certas datas, filtrado por data de pagamento, vencimento ou crédito para melhor controle das finanças da empresa.<br> </>
+<br>
 
 
-<hr>
+__•Tecnologias Utilizadas__: React, TypeScript, Java com Spring e o Docker.
 
+<h3>Contribuições</h3>
+Nesse projeto tive o papel de Product Owner da equipe, fazendo o levantamento de requesitos para a construção do backlog do produto e fazendo a comunicação direta com o cliente. Nas próximas sprints também contribui na parte do desenvolvimento do projeto, em especifíco no Frontend, cuidando da exibição dos relatórios filtrados, além do gerenciamento de permissões dos usuários do sistema. A maior dificuldade enfrentada<br>
+<br>
+
+__•HardSkills__: Desenvolvi meu conhecimento em Python, e em algumas bibliotecas do mesmo, como o PyPDF, que fazia a leitura dos dados, ou o smtplib, módulo do Python que faz a automação de envios de email.
+
+__•SoftSkills__: Evolui ainda mais na Comunicação com a equipe em geral, na Responsabilidade de entregas, e na Proatividade sempre buscando conhecimento para fazer minhas tasks e contribuir para outras tasks do grupo. Além disso na Solução de Problemas durante as Sprints, buscando sempre alternativas para problemas que não eram esperados no desenvolvimento.
 
 
 ##
