@@ -72,7 +72,7 @@ Desenvolvemos um sistema em microsserviços que permite o cadastro de clientes, 
 __•Tecnologias Utilizadas__: React, TypeScript, Java com Spring e o Docker.
 
 <h3>Contribuições</h3>
-Nesse projeto tive o papel de Product Owner da equipe, fazendo o levantamento de requesitos para a construção do backlog do produto e fazendo a comunicação direta com o cliente. Nas próximas sprints também contribui na parte do desenvolvimento do projeto, em especifíco no Frontend, cuidando da exibição dos relatórios filtrados, além do gerenciamento de permissões dos usuários do sistema. A maior dificuldade enfrentada<br>
+Nesse projeto tive o papel de Product Owner da equipe, fazendo o levantamento de requesitos para a construção do backlog do produto e fazendo a comunicação direta com o cliente. Nas próximas sprints também contribui na parte do desenvolvimento do projeto, em especifíco no Frontend, cuidando da exibição dos relatórios filtrados, e também do gerenciamento de permissões dos usuários do sistema. A maior dificuldade enfrentada foi se acostumar com uma nova função no time, entendendo as funções de um P.O e principalmente estando em comunicação direta com o cliente, sempre precisando pensar em como perguntar algo para chegar na resposta desejada. <br>
 <br>
 
 __•HardSkills__: Desenvolvi meu conhecimento em Python, e em algumas bibliotecas do mesmo, como o PyPDF, que fazia a leitura dos dados, ou o smtplib, módulo do Python que faz a automação de envios de email.
@@ -81,6 +81,6 @@ __•SoftSkills__: Evolui ainda mais na Comunicação com a equipe em geral, na 
 
 
 ##
-<h2>Contato </h2>
-<h3>Email: lucasrpmedici@gmail.com</h3>
+<h3>Contato </h3>
+<h4>Email: lucasrpmedici@gmail.com</h4>
 
