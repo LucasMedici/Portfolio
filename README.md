@@ -47,7 +47,7 @@ __•Tecnologias Utilizadas__: React, JavaScript, TypeScript e Python.
 Nesse projeto também fiz parte do DevTeam, contribui com a equipe na parte do crawler, trabalhei diretamente no robo que fazia a leitura dos PDFs e buscava algo relacionado a um determinado professor, nessa parte utilizamos Python e a maior dificuldade que tivemos foi a falta de padrão nos PDFs do Diário, fazendo com que a procura fosse incerta em algumas situações. <br>
 <br>
 
-__•HardSkills__: Desenvolvi meu conhecimento em Python, e em algumas bibliotecas do mesmo, como o PyPDF, que fazia a leitura dos dados, ou o smtplib, módulo do Python que faz a automação de envios de email.
+__•HardSkills__: Desenvolvi meu conhecimento em Python, e em algumas bibliotecas do mesmo, como o PyPDF, que fazia a leitura dos dados, ou o smtplib, módulo do Python que faz a automação de envios de email, melhorei minhas habilidades de manipulação de objeto e lógica de programação.
 
 __•SoftSkills__: Evolui ainda mais na Comunicação com a equipe em geral, na Responsabilidade de entregas, e na Proatividade sempre buscando conhecimento para fazer minhas tasks e contribuir para outras tasks do grupo. Além disso na Solução de Problemas durante as Sprints, buscando sempre alternativas para problemas que não eram esperados no desenvolvimento.
 
@@ -75,9 +75,9 @@ __•Tecnologias Utilizadas__: React, TypeScript, Java com Spring e o Docker.
 Nesse projeto tive o papel de Product Owner da equipe, fazendo o levantamento de requesitos para a construção do backlog do produto e fazendo a comunicação direta com o cliente. Nas próximas sprints também contribui na parte do desenvolvimento do projeto, em especifíco no Frontend, cuidando da exibição dos relatórios filtrados, e também do gerenciamento de permissões dos usuários do sistema. A maior dificuldade enfrentada foi se acostumar com uma nova função no time, entendendo as funções de um P.O e principalmente estando em comunicação direta com o cliente, sempre precisando pensar em como perguntar algo para chegar na resposta desejada. <br>
 <br>
 
-__•HardSkills__: Desenvolvi meu conhecimento em Python, e em algumas bibliotecas do mesmo, como o PyPDF, que fazia a leitura dos dados, ou o smtplib, módulo do Python que faz a automação de envios de email.
+__•HardSkills__: Melhorei minhas práticas de programação utilizando Programação Orientada a Objetos, Clean Code e API REST, começei a estudar JAVA e a entender melhor o funcionamento de softwares de gerenciamento de equipes como o JIRA.
 
-__•SoftSkills__: Evolui ainda mais na Comunicação com a equipe em geral, na Responsabilidade de entregas, e na Proatividade sempre buscando conhecimento para fazer minhas tasks e contribuir para outras tasks do grupo. Além disso na Solução de Problemas durante as Sprints, buscando sempre alternativas para problemas que não eram esperados no desenvolvimento.
+__•SoftSkills__: Por ser P.O desenvolvi ainda mais minha comunicação, proatividade e responsabilidade, melhorei minhas habilidades de liderança e minha capacidade de solucionar problemas que aparecem no desenvolvimento rapidamente, algo importissímo no SCRUM.
 
 
 ##
