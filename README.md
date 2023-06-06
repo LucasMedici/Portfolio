@@ -61,21 +61,25 @@ o time utilizamos o SCRUM. <br>
 <details>
 <summary><h4>Detalhes do Projeto</h4></summary>
 ◉ Nesse projeto fizemos um sistema de gerenciamento de cobranças de uma empresa, em que um funcionário cadastra vendas relacionadas a um cliente já cadastrado, assim tendo o controle de parcelas pagas ou não pagas, tornando um cliente adimplente ou inadimplente, também fazemos a geração de relatórios filtrados por data. <br>
-◉ O grupo também foi gerido com o SCRUM.  
+◉ O grupo também foi gerido com o SCRUM. <br>  
 ◉ Utilizamos React, TypeScript, Java com Spring e o Docker. <br>  
 <img src="/imgs/" alt="Imagem Projeto 3.2" width="500">  
 </details>
 <details>
 <summary><h4>Contribuições Pessoais</h4></summary>  
-◉ Nesse projeto, a minha função no time também foi fazer parte do Dev Team, porém agora todos já tinhamos alguma experiência em algumas linguagens, desta vez trabalhamos com uma empresa real, fazendo com que o desafio fosse muito maior, pois tinhamos um cliente real para aprovar nossas entregas, nosso maior problema no projeto foi fazer a leitura de PDFs do Diário que não seguiam padrão nenhum, porém, com um bom planejamento e comunicação com cliente conseguimos entregar um bom produto final.  
-  
+◉ Nesse projeto, desempenhei o papel de Product Owner, fazendo o levantamento de requesitos para a construção do backlog do produto. Também contribui com o time de desenvolvimento em algumas partes do projeto, principalmente no front-end. <br>
+◉ Para mim, nesse semestre, a maior dificuldade foi se acostumar a ter um novo papel no time, a comunicação com o cliente no inicio foi um problema, pois demorei para me acostumar a fazer as perguntas certas para assim conseguir as respostas desejadas, porém, finalizando o semestre acredito que o aprendizado tenha sido muito bom e evolui em diversos sentidos. <br>
 <h3>Hard Skills</h3>
-◉ Evolução principalmente em JavaScript e TypeScript.
+◉ Evolução em React, Java e na metodologia SCRUM.
 <h3>Soft Skills</h3>  
-◉ Comunicação Assertiva
+◉ Proatividade
+◉ Visão de Negócio
 ◉ Organização e Planejamento
 ◉ Proatividade
 </details>  
+
+
+<hr>
 
 
 
