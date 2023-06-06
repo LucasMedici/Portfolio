@@ -7,13 +7,19 @@ Lucas, 19 anos, estudante matriculado no 3ºSemestre de Desenvolvimento de Softw
 <h3>API 1-Semestre - ServiceDesk</h3>
 <h5>Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net">FATEC São José dos Campos - Prof. Jessen Vidal</a></h5>
 <h5>Repositório: <a href="https://github.com/whatscodeg3/API-DSM-ServiceDesk">ServiceDesk - 2022.1</a></h5>
-O sistema tem como objetivo dar assistência a problemas de TI, uma pessoa poderia criar um cadastro e registrar uma dúvida no sistema, um funcionário da empresa iria responder e assim o cliente que cadastrou a pergunta pode avaliar o atendimento recebido. Além disso o sistema possui Administradores que tem acesso a todas dúvidas respondidas ou não de um funcionário, o administrador também tem acesso a um relatório filtrado por data onde é exibido um percentual de solicitações atendidas, recusadas ou em aberto.<br> </>
+<h4>Problema Proposto:</h4>
+Foi nos dado um problema em que uma empresa de suporte precisa de um sistema em que permita que seus clientes acessem e deixem suas dúvidas relacionadas a tecnologia, ela será encaminhada para um funcionário de maneira cíclica, o sistema tem que possuir uma maneira de avaliar o atendimento e que um Administrador consiga gerar um relatório para controle de desempenho geral e de um determinado funcionário. 
+<br>
+<h4>Solução: </h4>
+Desenvolvemos um sistema com o objetivo de dar assistência a problemas de TI, uma pessoa poderia criar um cadastro e registrar uma dúvida no sistema, um funcionário da empresa iria receber a solicitação, determinar se ele quer responder ou recusar, caso recuse, o motivo deverá ser explicado, após ele responder a solicitação o cliente que cadastrou a pergunta pode avaliar o atendimento recebido. Além disso o sistema possui Administradores que tem acesso a todas dúvidas respondidas ou não de um funcionário, o administrador também tem acesso a um relatório filtrado por data onde é exibido um percentual de solicitações atendidas, recusadas ou em aberto.<br> </>
 <br>
 
 
 __•Tecnologias Utilizadas__: HTML, CSS, JavaScript e Python com Flask.
 
 <h3>Contribuições</h3>
+Nesse projeto fiz parte do DevTeam, contribui com a equipe em ambas as partes, tanto no Frontend quanto no Backend. A maior dificuldade encontrada no projeto foram as linguagens utilizadas pois foi meu primeiro contato com algumas delas.<br>
+<br>
 
 __•HardSkills__: Aprendi os principios do HTML com estilização CSS, além de entender a separação do frontend com o backend, a ligação entre eles, e no backend em python, entendi as diferenças entre as requisições.
 
@@ -24,26 +30,23 @@ __•SoftSkills__: Desenvolvi minha habilidade de comunicação entre o grupo pa
 
 <hr>
 <br>
-<h3><a href="https://github.com/whatscodeg3/API-2DSM-DailyBot">API 2-Semestre - DailyBot</a></h3>
-<img src="/imgs/2semestre_1.png" alt="Imagem Projeto 2.1" width="500"><br>
+<h3>API 2-Semestre - DailyBot</h3>
 <h5>Parceiro Acadêmico: <a href="https://midall.com.br">MidAll Tecnologia</a></h5>
-<details>
-<summary><h4>Detalhes do Projeto</h4></summary>
-◉ Nesse projeto tivemos que automatizar o processo de um sindicado de professores, fazendo uma busca automática no Diário, verificando se alguma coisa tem relação com algum professor cadastrado no sistema e o notificando se necessário. Fizemos um crawler que fazia a leitura dos PDFs do Diário automaticamente e fazia toda a verificação necessária, também utilizamos o SCRUM para gerir o grupo. <br>
-◉ As linguagens utilizadas foram HTML, CSS, JavaScript e Typescript com Node, também utilizamos o Python para algumas funcões. <br>  
-<img src="/imgs/2semestre_2.png" alt="Imagem Projeto 2.2" width="500">  
-</details>
-<details>
-<summary><h4>Contribuições Pessoais</h4></summary>  
-◉ Nesse projeto, a minha função no time também foi fazer parte do Dev Team, porém agora todos já tinhamos alguma experiência em algumas linguagens, desta vez trabalhamos com uma empresa real, fazendo com que o desafio fosse muito maior, pois tinhamos um cliente real para aprovar nossas entregas, nosso maior problema no projeto foi fazer a leitura de PDFs do Diário que não seguiam padrão nenhum, porém, com um bom planejamento e comunicação com cliente conseguimos entregar um bom produto final.  
-  
-<h3>Hard Skills</h3>
-◉ Evolução principalmente em JavaScript e TypeScript.
-<h3>Soft Skills</h3>  
-◉ Comunicação Assertiva
-◉ Organização e Planejamento
-◉ Proatividade
-</details>  
+<h5>Repositório: <a href="https://github.com/whatscodeg3/API-2DSM-DailyBot">DailyBot - 2022.2</a></h5>
+Desenvolver um Crawler que diariamente acesse o Diário Oficial Do Estado de São Paulo e faça uma varredura buscando menções a professores associados a um sindicato, caso a menção exista notificar o mesmo por e-email especificando a página em que ele foi citado e dando um breve resumo do assunto.<br> </>
+<br>
+
+
+__•Tecnologias Utilizadas__: React, JavaScript, TypeScript e Python.
+
+<h3>Contribuições</h3>
+
+__•HardSkills__: Aprendi os principios do HTML com estilização CSS, além de entender a separação do frontend com o backend, a ligação entre eles, e no backend em python, entendi as diferenças entre as requisições.
+
+__•SoftSkills__: Desenvolvi minha habilidade de comunicação entre o grupo para que todos saibam o andamento das partes do projeto, e a responsabilidade com as entregas para o andamento das Sprints.
+
+
+
 
 
 
